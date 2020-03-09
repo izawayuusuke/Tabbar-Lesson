@@ -45,7 +45,7 @@ h1 {
   color: #000;
 }
 
-#tab-contents {
+#tab-contents .tab {
   padding: 30px;
   background: #fff;
   border: 1px solid #000;
